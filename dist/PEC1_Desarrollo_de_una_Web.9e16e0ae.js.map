@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["name","console","log"],"mappings":";AAAA,IAAMA,EAAO,QACbC,QAAQC,IAAaF,SAAAA,OAAAA","file":"PEC1_Desarrollo_de_una_Web.9e16e0ae.js","sourceRoot":"..","sourcesContent":["const name = 'world';\r\nconsole.log(`Hello ${name}`); "]}
