@@ -1,1 +1,0 @@
-{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KAAO,YAAa,CAAE,aAAc,CAAE,kDAA0D","file":"style.e9eb869d.css","sourceRoot":"..","sourcesContent":["body { height: 100vh; color: #1f1f1f; background: linear-gradient(to bottom, #bada55, #c0ffee); }"]}
